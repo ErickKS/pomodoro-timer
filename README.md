@@ -21,8 +21,9 @@
 ## 📚 Project
 <p>This project was developed to practice logic and DOM manipulation.</p>
 <p>Of course, it's not the best project ever, but I did my best. As this project is on Youtube, I can't modify the code.</p>
+<a href="https://www.youtube.com/watch?v=sYFR4NJkrFc&t=523s">Check my video</a>
 
-<br>
+<br><br>
 
 ## 🖥 Technologies
   * [Html](https://www.w3schools.com/html/)
